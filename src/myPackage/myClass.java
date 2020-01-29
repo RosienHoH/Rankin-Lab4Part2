@@ -1,5 +1,10 @@
 package myPackage;
 
+/**
+ * Author: Brandon Rankin
+ * Version: 01-28-2020
+ */
+
 public class myClass {
 
     public void main() {
